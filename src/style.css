@@ -81,9 +81,16 @@
 #icons{
     font-size: 24px;
     background-color: #0e5d7d;
-    color: white;
     opacity: 0.7;
     padding: 15px;
+}
+
+.footer-icon{
+    color: white;
+}
+
+.footer-icon:hover{
+    color: white;
 }
 
 .container-gallery{
